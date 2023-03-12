@@ -1,0 +1,29 @@
+
+.header {
+	font-size: 18px;
+}
+
+.sub-header-and-inline {
+	font-size: 14px;
+	display: inline;
+}
+
+.sub-header-only {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.left-aligned-text {
+	text-align: left;
+}
+
+.cat-width {
+	width: 100%;
+}
+
+.paragraph-font-size {
+	font-size: 11px;
+}
+.s {
+	font-weight: bold;
+}
